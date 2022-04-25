@@ -1,4 +1,4 @@
-<h1 align = "center">cavegame</h1>
+<h1 align = "center">CaveGame.io</h1>
 
 <h5 align = "center">
 <a href = "https://www.youtube.com/watch?v=34Ig3X59_qA">	
